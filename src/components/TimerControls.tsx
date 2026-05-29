@@ -281,7 +281,7 @@ const TimerControls: React.FC<TimerControlsProps> = ({
             </button>
 
             <button className="control-btn reset" onClick={onRevert}>
-              Time Revert
+              Restore Timer
             </button>
           </div>
 
