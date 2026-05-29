@@ -1020,7 +1020,7 @@ const App: React.FC = () => {
             onStart={startTimer}
             onPause={pauseTimer}
             onReset={resetTimer}
-            onRevert={revertTimer}
+            onRevertTime={revertTimer}
             onSettings={openSettings}
             onHelp={() => setShowHelp(true)}
             onMinutesChange={(minutes) =>
