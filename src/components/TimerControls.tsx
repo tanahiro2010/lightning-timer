@@ -9,7 +9,7 @@ const TimerControls: React.FC<TimerControlsProps> = ({
   onStart,
   onPause,
   onReset,
-  onRevert,
+  onRevertTime,
   onSettings,
   onHelp,
   onMinutesChange,
